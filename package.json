@@ -1,0 +1,24 @@
+{
+  "name": "livequiz",
+  "version": "1.0.0",
+  "description": "Live quiz application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bumsyalao/livequiz.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "expressJS",
+    "mongoose"
+  ],
+  "author": "Bunmi Alao, Chiamaka Nwolisa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bumsyalao/livequiz/issues"
+  },
+  "homepage": "https://github.com/bumsyalao/livequiz#readme"
+}
